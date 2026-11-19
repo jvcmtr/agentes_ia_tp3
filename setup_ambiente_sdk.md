@@ -29,3 +29,8 @@ Segue aqui um exemplo de arquivo `.env`:
 ```txt
 GEMINI_API_KEY = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 ```
+
+## 5. Valide a configuração de ambiente:
+```sh
+python verificar_ambiente.py
+```
